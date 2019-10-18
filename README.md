@@ -1,2 +1,2 @@
 # TextAdventure
-First side project
+First repo
